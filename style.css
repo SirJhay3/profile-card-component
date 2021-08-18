@@ -91,6 +91,9 @@ img{
     font-weight: 400;
     color: var(--dark-gray);
 }
+hr {
+    opacity: .3;
+}
 .attribution {
     font-size: 11px;
     text-align: center;
